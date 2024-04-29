@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and Welcome, I'm Prunelle D. Treuil 👋
 
 <!--
 **ptreuil/ptreuil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|[![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ptreuil&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ptreuil&hide=contribs,prs,issues&show_icons=true&theme=synthwave) |
+| ------------- | ------------- |
+
