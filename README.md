@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ptreuil&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ptreuil&hide=contribs,prs,issues&show_icons=true&theme=synthwave)
 
-*Nota Bene : Most of my python project are either not a personal repository or hidden in a Jupyter Notebook so this is not an accurate représentation of my time* 😄 *I hope I will be able to put more personnal project here now that I have finished my master thesis*
+*Nota Bene : Most of my python project are either not a personal repository or hidden in a Jupyter Notebook so this is not an accurate représentation of my time* 😄 *I hope I will be able to put more personnal project here when I will have finished my master thesis*
